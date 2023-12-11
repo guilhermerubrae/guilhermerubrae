@@ -8,7 +8,8 @@
 </h3>
 <h3 align="left">
 Atualmente, estou imerso no universo da Análise e Desenvolvimento de Sistemas na Uninter, explorando profundamente tecnologias como HTML, CSS, JavaScript e Python. Além disso, estou cursando Java Fullstack Jr na Generation, ampliando minha compreensão do desenvolvimento de sistemas, e continuamente buscando aprimoramento.
-
+</h3>
+<h3 align="left">
 🚀 Let's code!
 </h3>
 </div>
