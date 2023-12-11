@@ -19,6 +19,9 @@ Atualmente, estou imerso no universo da Análise e Desenvolvimento de Sistemas n
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guilhermerubrae&label=Profile%20views&color=000000&style=flat" alt="guilhermerubrae" /> 🌍 </p>
 
+<div align="center"> 
+ <h2>Hard Skills: 🏋🏽 </h2><br>
+ </div> 
   <table>
     <tr>
      <td align="center" width="96">
