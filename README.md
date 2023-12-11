@@ -69,7 +69,7 @@ Atualmente, estou imerso no universo da Análise e Desenvolvimento de Sistemas n
 
 <div align="center"> 
  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermerubrae&layout=donut&theme=white)]()
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermerubrae&layout=donut&theme=dark)]()
  
 </div> 
 
