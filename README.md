@@ -1,11 +1,10 @@
-<div align="left" style="background-color: black; padding: 20px;">
+<div align="center" style="background-color: black; padding: 20px;">
  
  <h1>Welcome, I'm Rubrae <a href="https://github.com/guilhermerubrae"></a></h1>
- <h3 align="center">
+ <h3 align="left">
 👽 Olá! Eu sou Rubrae, um apaixonado por tecnologia de 21 anos, residente em São Paulo. Minha jornada acadêmica começou com a formação técnica em Administração e Programação Web pelo IOS.
-
-<br>
-
+</h3>
+<h3 align="rigth">
 Atualmente, estou imerso no universo da Análise e Desenvolvimento de Sistemas na Uninter, explorando profundamente tecnologias como HTML, CSS, JavaScript e Python. Além disso, estou cursando Java Fullstack Jr na Generation, ampliando minha compreensão do desenvolvimento de sistemas, e continuamente buscando aprimoramento.
 
 🚀 Let's code!
@@ -82,6 +81,9 @@ Atualmente, estou imerso no universo da Análise e Desenvolvimento de Sistemas n
 </div>
 
 <div align="center">
+ 
+   ![snake svg](https://github.com/livehass/livehass/blob/output/github-contribution-grid-snake-dark.svg)
    ![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermerubrae&theme=github_dark) 
+   
 </div>
 
