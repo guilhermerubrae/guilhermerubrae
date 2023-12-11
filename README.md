@@ -4,7 +4,7 @@
  <h3 align="left">
 👽 Olá! Eu sou Rubrae, um apaixonado por tecnologia de 21 anos, residente em São Paulo. Minha jornada acadêmica começou com a formação técnica em Administração e Programação Web pelo IOS.
 </h3>
-<h3 align="rigth">
+<h3 align="left">
 Atualmente, estou imerso no universo da Análise e Desenvolvimento de Sistemas na Uninter, explorando profundamente tecnologias como HTML, CSS, JavaScript e Python. Além disso, estou cursando Java Fullstack Jr na Generation, ampliando minha compreensão do desenvolvimento de sistemas, e continuamente buscando aprimoramento.
 
 🚀 Let's code!
@@ -69,7 +69,7 @@ Atualmente, estou imerso no universo da Análise e Desenvolvimento de Sistemas n
 
 <div align="center"> 
  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermerubrae&layout=donut&theme=transparent)]()
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermerubrae&layout=donut&theme=black)]()
  
 </div> 
 
