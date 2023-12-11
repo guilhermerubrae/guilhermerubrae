@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=658854&height=120&section=header"/>
+
 <div align="center" style="background-color: black; padding: 20px;">
  
  <h1>Welcome, I'm Rubrae <a href="https://github.com/guilhermerubrae"></a></h1>
@@ -11,7 +13,7 @@ Atualmente, estou imerso no universo da Análise e Desenvolvimento de Sistemas n
 </h3>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guilhermerubrae&label=Profile%20views&color=0e75b6&style=flat" alt="guilhermerubrae" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=guilhermerubrae&label=Profile%20views&color=000000&style=flat" alt="guilhermerubrae" /> </p>
 
   <table>
     <tr>
@@ -69,7 +71,7 @@ Atualmente, estou imerso no universo da Análise e Desenvolvimento de Sistemas n
 
 <div align="center"> 
  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermerubrae&layout=donut&theme=dark)]()
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermerubrae&layout=donut&theme=chartreuse-dark )]()
  
 </div> 
 
@@ -78,12 +80,14 @@ Atualmente, estou imerso no universo da Análise e Desenvolvimento de Sistemas n
  <a href="https://linkedin.com/in/guilhermerubrae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guilhermerubrae" height="30" width="40" /></a>
 <a href="https://instagram.com/eguizin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eguizin" height="30" width="40" /></a><br>
 
+
 </div>
 
 <div align="center">
  
-   ![snake svg](https://github.com/guilhermerubrae/GuilhermeRubrae/blob/output/github-contribution-grid-snake-dark.svg)
+   ![snake svg](https://github.com/guilhermerubrae//blob/output/github-contribution-grid-snake-dark.svg)
    ![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermerubrae&theme=github_dark) 
    
 </div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=658854&height=120&section=footer"/>
