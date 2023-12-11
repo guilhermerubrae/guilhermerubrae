@@ -25,7 +25,7 @@ Atualmente, mergulho no universo da Análise e Desenvolvimento de Sistemas na Un
        <br>JavaScript</br>
     </td>
     <td align="center" width="96">
-       <a href="js" target="_blank"> <img src="[https://techstack-generator.vercel.app/ts-icon.svg](https://techstack-generator.vercel.app/python-icon.svg)" alt="py" width="40" height="40"/> </a>
+       <a href="js" target="_blank"> <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="py" width="40" height="40"/> </a>
        <br>Python</br>
     </td>
     <td align="center" width="96">
@@ -57,7 +57,7 @@ Atualmente, mergulho no universo da Análise e Desenvolvimento de Sistemas na Un
        <br>Git</br>
     </td>
     <td align="center" width="96">
-       <a href="git" target="_blank"> <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg](https://techstack-generator.vercel.app/github-icon.svg)" alt="github" width="40" height="40"/> </a>
+       <a href="git" target="_blank"> <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40"/> </a>
        <br>GitHub</br>
     </td>
    </tr>
@@ -65,11 +65,13 @@ Atualmente, mergulho no universo da Análise e Desenvolvimento de Sistemas na Un
 </div> 
 
 <div align="center"> 
+ 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermerubrae&layout=donut&theme=transparent)]()
+ 
 </div> 
 
 <div align="center"> 
- <h2>Você pode entrar em contato comigo <a href="mailto:guilhermerubrae@gmail.com">Meus contatos</a> </h2>
+ <h2>Você pode entrar em contato comigo: </h2>
  <a href="https://linkedin.com/in/guilhermerubrae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guilhermerubrae" height="30" width="40" /></a>
 <a href="https://instagram.com/eguizin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eguizin" height="30" width="40" /></a>
 
@@ -80,5 +82,6 @@ Atualmente, mergulho no universo da Análise e Desenvolvimento de Sistemas na Un
    ![snake svg](https://github.com/guilhermerubrae/guilhermerubrae/blob/output/github-contribution-grid-snake-dark.svg)
    ![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermerubrae&theme=github_dark) 
 
+ 
 </div>
 
