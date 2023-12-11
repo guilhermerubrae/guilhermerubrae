@@ -69,7 +69,7 @@ Atualmente, estou imerso no universo da Análise e Desenvolvimento de Sistemas n
 
 <div align="center"> 
  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermerubrae&layout=donut&theme=black)]()
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermerubrae&layout=donut&theme=white)]()
  
 </div> 
 
@@ -82,7 +82,7 @@ Atualmente, estou imerso no universo da Análise e Desenvolvimento de Sistemas n
 
 <div align="center">
  
-   ![snake svg](https://github.com/livehass/livehass/blob/output/github-contribution-grid-snake-dark.svg)
+   ![snake svg](https://github.com/guilhermerubrae/GuilhermeRubrae/blob/output/github-contribution-grid-snake-dark.svg)
    ![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermerubrae&theme=github_dark) 
    
 </div>
