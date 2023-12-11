@@ -1,13 +1,17 @@
-<div align="left" bakgroundColor="black">
+<div align="left" style="background-color: black; padding: 20px;">
  
  <h1>Welcome, I'm Rubrae <a href="https://github.com/guilhermerubrae"></a></h1>
  <h3 align="center">
-Apenas um alien 👽 apaixonado por tecnologia de 21 anos, resido em São Paulo. Minha jornada acadêmica começa com minha formação técnica em Administração e Programação Web pelo IOS.
+👽 Olá! Eu sou Rubrae, um apaixonado por tecnologia de 21 anos, residente em São Paulo. Minha jornada acadêmica começou com a formação técnica em Administração e Programação Web pelo IOS.
 
-Atualmente, mergulho no universo da Análise e Desenvolvimento de Sistemas na Uninter, explorando a fundo tecnologias como HTML, CSS, JavaScript e Python. Além disso, estou cursando Java Fullstack Jr na Generation, ampliando minha compreensão do desenvolvimento de sistemas, continuamente buscando aprimoramento.
+<br>
+
+Atualmente, estou imerso no universo da Análise e Desenvolvimento de Sistemas na Uninter, explorando profundamente tecnologias como HTML, CSS, JavaScript e Python. Além disso, estou cursando Java Fullstack Jr na Generation, ampliando minha compreensão do desenvolvimento de sistemas, e continuamente buscando aprimoramento.
 
 🚀 Let's code!
 </h3>
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guilhermerubrae&label=Profile%20views&color=0e75b6&style=flat" alt="guilhermerubrae" /> </p>
 
   <table>
@@ -71,17 +75,13 @@ Atualmente, mergulho no universo da Análise e Desenvolvimento de Sistemas na Un
 </div> 
 
 <div align="center"> 
- <h2>Você pode entrar em contato comigo: </h2>
+ <h2>Você pode entrar em contato comigo: </h2><br>
  <a href="https://linkedin.com/in/guilhermerubrae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guilhermerubrae" height="30" width="40" /></a>
-<a href="https://instagram.com/eguizin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eguizin" height="30" width="40" /></a>
+<a href="https://instagram.com/eguizin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eguizin" height="30" width="40" /></a><br>
 
 </div>
 
 <div align="center">
-
-   ![snake svg](https://github.com/guilhermerubrae/guilhermerubrae/blob/output/github-contribution-grid-snake-dark.svg)
    ![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermerubrae&theme=github_dark) 
-
- 
 </div>
 
