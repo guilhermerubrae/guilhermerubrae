@@ -74,7 +74,7 @@ Atualmente, estou imerso no universo da Análise e Desenvolvimento de Sistemas n
 </div> 
 
 <div align="center"> 
- <h2>Você pode entrar em contato comigo: </h2><br>
+ <h2>Contacts: </h2><br>
  <a href="https://linkedin.com/in/guilhermerubrae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guilhermerubrae" height="30" width="40" /></a>
 <a href="https://instagram.com/eguizin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eguizin" height="30" width="40" /></a><br>
 
