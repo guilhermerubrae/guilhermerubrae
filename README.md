@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left" bakgroundColor="black">
  
  <h1>Welcome, I'm Rubrae <a href="https://github.com/guilhermerubrae"></a></h1>
  <h3 align="center">
