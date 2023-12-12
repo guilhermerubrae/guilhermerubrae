@@ -2,7 +2,7 @@
 
 <div align="center" style="background-color: black; padding: 20px;">
  
- <h1>Welcome, I'm Rubrae 🥸<a href="https://github.com/guilhermerubrae"></a></h1>
+ <h1>Welcome, I'm Rubrae 🥸<a href="https://github.com/guilhermerubrae"></a></h1> 
  <h3 align="left">
 👽 Olá! Marcianos. Vamos lá sou um paulistano apaixonado por tecnologia de 21 anos. Minha jornada acadêmica começou com a formação técnica em Administração e Programação Web no IOS.
 </h3>
